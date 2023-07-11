@@ -1,1 +1,2 @@
-# Tracdar
+# SubTracker
+subscriptions tracker app
